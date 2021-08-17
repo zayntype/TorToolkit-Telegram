@@ -1,4 +1,4 @@
-ame: Manually Deploy to heroku
+name: Manually Deploy to heroku
 
 on: workflow_dispatch
 
