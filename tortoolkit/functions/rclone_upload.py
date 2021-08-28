@@ -263,7 +263,7 @@ def calculate_size(path):
     if path is not None:
         try:
             if os.path.isdir(path):
-                return get_size_fl(path)
+                return def get_size_fl(path)
             else:
                 return os.path.getsize(path)
         except:
