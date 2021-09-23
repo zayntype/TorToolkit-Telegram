@@ -107,8 +107,13 @@ except:
         SA_FOLDER_ID = ""
         SA_TD_ID = ""
         SA_ACCOUNTS_FOLDER = ""
+        SA_ZIP_FILE = False
 
         SA_ACCOUNT_NUMBER = 0
+
+        UPTOBOX_TOKEN = ""
+
+        USE_RAR_SPLIT = False
 
         # Name of the RCLONE drive from the config
         DEF_RCLONE_DRIVE = ""
